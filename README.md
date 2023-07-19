@@ -1,5 +1,8 @@
 <h2>Hey there, I'm Dawid, welcome to my GitHub 👋</h2>
 
+I'm interested in projects that improve people's lives, entertain them, or enhance their potential and productivity. If you would like to work with me, 
+discuss collaboration, or share project ideas, please reach out to me via <a href="https://www.linkedin.com/in/dwydmuch/" target="_blank">
+<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="java" width="80" height="15"></a>
 
 <h3>🛩️ Current projects and tech stack</h4>
 
