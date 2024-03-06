@@ -38,9 +38,7 @@ In addition to expanding my existing knowledge, I would like to gain experience 
 
 Also, I would like to expand my knowledge of game development.
 
-<p><img src="https://godotengine.org/assets/press/icon_color.png" alt="Godot Engine" width="40" height="40"/></p>
-
-
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" alt="Godot Engine" width="40" height="40"/></p>
 
 
 
