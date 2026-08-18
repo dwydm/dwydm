@@ -1,66 +1,40 @@
-<h2>Hey there, I'm Dawid, welcome to my GitHub 👋</h2>
+# Hi, I'm Dawid 👋
 
-I'm interested in projects that improve people's lives, entertain them, or enhance their potential and productivity. If you would like to work with me, 
-discuss collaboration, or share project ideas, please reach out to me via <a href="https://www.linkedin.com/in/dwydmuch/" target="_blank">
-<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="java" width="80" height="15"></a>
+I enjoy exploring how software can solve practical problems, improve workflows, or simply entertain people.
 
-<h3>🛩️ Current projects and tech stack</h4>
+This profile is home to collaborative projects, course work, technical experiments, and - eventually - hobby projects that I build out of curiosity.
 
-I am comfortable developing the backend for RESTful web applications.<br>
+## Selected project
 
-<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></p>
+### [FilmVault: Backend](https://github.com/dwydm/FilmVault)
 
-I use various tools to support myself in my projects.
+A four-person educational project built with Java and Spring Boot.
 
-<p><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></p>
+I acted as the project leader and backend contributor, coordinating the team's work and contributing to requirements, business logic, REST endpoints, DTOs, database initialisation, search functionality, and integration with The Movie Database API.
 
-To gain a better understanding of web app development and complete this experience,<br>
-I am also learning the basics of frontend development.
+## Areas of interest
 
-<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></p>
+* web applications and REST APIs;
+* databases and data processing;
+* useful tools and workflow automation;
+* application design and problem-solving;
+* game development and interactive systems.
 
-<h3>✈️ Future projects and learning paths</h4>
+## Technologies I have worked with
 
-In addition to expanding my existing knowledge, I would like to gain experience in developing mobile applications.
+* Java and Spring Boot;
+* REST APIs and OpenAPI/Swagger;
+* JPA/Hibernate, SQL, H2 and MySQL;
+* Git and GitHub;
+* Docker;
+* basic React and TypeScript.
 
-<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></p>
+## What's next?
 
-Also, I would like to expand my knowledge of game development.
+Game development has been on my list for a while. At some point, I would like to turn a few ideas into small playable prototypes using Godot.
 
-<p><img src="https://avatars.githubusercontent.com/u/183325681?s=200&v=4" alt="Redot Engine" width="40" height="40"/></p>
+Until then, this profile remains a record of things I have built, learned, experimented with, or helped create.
 
+## Contact
 
-
-
-
-
-<!--
-**dwydm/dwydm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-⬇️🔽✅
-Here are some ideas to get you started:
-🛩️
-
-🤖👾✈️🛩️🏍️🔥📳
-🇺🇲🇬🇧👾✈️🛩️🏍️🔥📳
-### Hi there 👋
-🚀
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find me on [LinkedIn](https://www.linkedin.com/in/dwydmuch/).
