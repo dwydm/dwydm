@@ -34,7 +34,3 @@ I acted as the project leader and backend contributor, coordinating the team's w
 Game development has been on my list for a while. At some point, I would like to turn a few ideas into small playable prototypes using Godot.
 
 Until then, this profile remains a record of things I have built, learned, experimented with, or helped create.
-
-## Contact
-
-You can find me on [LinkedIn](https://www.linkedin.com/in/dwydmuch/).
